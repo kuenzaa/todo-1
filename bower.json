@@ -1,0 +1,22 @@
+{
+  "name": "todolist",
+  "version": "0.0.1",
+  "authors": [
+    "Charlie Strawn <cdstrawn@gmail.com>"
+  ],
+  "description": "learn angular",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/javascripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.12",
+    "jquery": "~2.1.0",
+    "lodash": "~2.4.1"
+  }
+}

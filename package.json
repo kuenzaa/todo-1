@@ -1,0 +1,9 @@
+{
+  "name": "todolist",
+  "version": "0.0.1",
+  "devDependencies": {
+    "karma": "*",
+    "karma-jasmine": "~0.1.5",
+    "grunt": "~0.4.2"
+  }
+}
